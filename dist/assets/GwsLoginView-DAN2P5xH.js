@@ -1,0 +1,1 @@
+import{_ as o,c as n,b as s,o as t}from"./index-B3v5CdMq.js";const a={},c={class:"gws-login-page"};function r(_,e){return t(),n("div",c,e[0]||(e[0]=[s("h1",null,"GWS入台彩登入",-1),s("p",null,"GWS入台彩登入頁面（待開發）",-1)]))}const d=o(a,[["render",r],["__scopeId","data-v-f4bbca30"]]);export{d as default};

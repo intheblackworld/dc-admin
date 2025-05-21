@@ -1,0 +1,1 @@
+import{_ as s,c as o,b as t,o as a}from"./index-B3v5CdMq.js";const r={},c={class:"export-list-page"};function n(_,e){return a(),o("div",c,e[0]||(e[0]=[t("h1",null,"匯出清單",-1),t("p",null,"匯出清單頁面（待開發）",-1)]))}const d=s(r,[["render",n],["__scopeId","data-v-4b6ba1ad"]]);export{d as default};
